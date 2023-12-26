@@ -1,0 +1,10 @@
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\bin\Debug\QuanLyKhachHang.exe.config
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\bin\Debug\QuanLyKhachHang.exe
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\bin\Debug\QuanLyKhachHang.pdb
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.csproj.AssemblyReference.cache
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.Form1.resources
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.Properties.Resources.resources
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.csproj.GenerateResource.cache
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.csproj.CoreCompileInputs.cache
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.exe
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Debug\QuanLyKhachHang.pdb

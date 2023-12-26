@@ -1,0 +1,10 @@
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\bin\Release\QuanLyKhachHang.exe.config
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\bin\Release\QuanLyKhachHang.exe
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\bin\Release\QuanLyKhachHang.pdb
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Release\QuanLyKhachHang.csproj.AssemblyReference.cache
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Release\QuanLyKhachHang.Form1.resources
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Release\QuanLyKhachHang.Properties.Resources.resources
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Release\QuanLyKhachHang.csproj.GenerateResource.cache
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Release\QuanLyKhachHang.csproj.CoreCompileInputs.cache
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Release\QuanLyKhachHang.exe
+D:\C#\Winform\QuanLyKhachHang\QuanLyKhachHang\obj\Release\QuanLyKhachHang.pdb
